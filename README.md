@@ -2,6 +2,8 @@
 
 A Python-based data cleaning tool built in Jupyter Notebook that takes messy Excel or CSV files and outputs a clean, analysis-ready file — automatically.
 
+
+"Cleaned a real-world environmental dataset with irregular headers and mixed data types."
 ---
 
 ## What It Does
